@@ -1,6 +1,6 @@
 :root{
     box-sizing: border-box;
-    font-size: 16px;
+    font-size: 16 px;
 }
 
 * {
@@ -8,3 +8,5 @@
     margin: 0;
     box-sizing: inherit;
 }
+body {
+        font-family: 'Sixtyfour Convergence', sans-serif;}
